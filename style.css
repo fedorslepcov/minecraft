@@ -1,0 +1,126 @@
+@font-face{
+	font-family: mis;
+	src: url(mine.ttf);
+}
+
+.d-flex{
+	display: flex;
+}
+.mt-50px{
+	margin-top: 50px;
+}
+.mx-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.mt-115{
+	margin-top: 115px;
+}
+.ml-25{
+	margin-left: 25px;
+}
+.pt-15{
+	padding-top: 15px;
+}
+.ml-100{
+	margin-left: 100px;
+}
+.main{
+	background: red;
+	padding-top: 2px;
+	font-family: mis;
+}
+.header{
+	width: 1445px;
+	height: 300px;
+	background: green;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 7px;
+}
+.box_text1{
+	width: 710px;
+	height: 300px;
+	background: green;
+	margin-top: 7px;
+}
+.text{
+	font-size: 50px;
+	color: #d3d3d3;
+}
+.text2{
+	font-size: 20px;
+	color: #d3d3d3;
+}
+.button{
+	width: 100px;
+	height: 30px;
+	background: #1bde59;
+}
+.src{
+	width: 500px;
+	height: 300px;
+}
+.fon{
+	height: 300px;
+	background: url(survivalminecraft.webp);
+	background-size: 100% 100%;
+}
+.src2{
+	width: 330px;
+	height: 300px;
+}
+
+.fon2{
+	background: url(block.jpg);
+}
+.button:hover{
+	background: green;
+	color: black;
+	transition: background 0.3s;
+}
+.fon3{
+	background: url(bulizhnik.png);
+}
+.fon4{
+	height: 300px;
+	background: url(online2.webp);
+	background-size: 100% 100%;
+}
+.fon5{
+	height: 300px;
+	background: url(almaz.webp);
+	background-size: 100% 100%;
+}
+.text3{
+	color: #686a69;
+	font-size: 20px;
+}
+.fon6{
+	height: 300px;
+	background: url(brevno.png);
+	background-size: 100% 100%;
+}
+.fon7{
+	height: 300px;
+	background: url(telefon.jpg);
+	background-size: 100% 100%;
+}
+.text4{
+	font-size: 50px;
+	color: #686a69;
+}
+.fon8{
+	height: 300px;
+	background: url(tekstura-bulizhnika.jpg);
+	background-size: 100% 100%;
+}
+.text5{
+	font-size: 20px;
+	color: white;
+}
+.fon9{
+	height: 300px;
+	background: url(svet.jpg);
+	background-size: 100% 100%;
+}
